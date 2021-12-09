@@ -22,10 +22,22 @@ I don't know, I'm tired of useless Python typing annotations, overly complex ORM
 	git clone https://github.com/xpinguin/ProgTasks.git
 	cd ProgTasks
 
-### Using CMake
+### Install dependencies
 
-	./bootstrap.sh
-	./GenerateCMakeFiles.sh
+#### MacOS X
+
+	brew install pkg-config
+	brew install bash
+	brew install --cask cmake
+
+#### Linux
+
+	...
+
+### Build using CMake
+
+	bash ./bootstrap.sh
+	bash ./GenerateCMakeFiles.sh
 	mkdir build
 	cd build
 	cmake-gui ..
