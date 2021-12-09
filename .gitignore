@@ -1,0 +1,14 @@
+*.o
+*.a
+*.so
+*.pch
+*.gch
+cmake-build*
+cmake-*
+build
+
+CMakeLists.txt
+*.tar.bz2
+
+.idea
+.vscode
