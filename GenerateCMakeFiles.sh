@@ -24,7 +24,7 @@ CMAKE_VERBOSE_OVERWRITE="0" # set to "0" - do not generate cmake verbose makefil
 UPP_SRC_BASE="upp"
 UPP_SRC_DIR="${UPP_SRC_BASE}/uppsrc"
 
-PROJECT_NAME="ProgTasks/ProgTasks.upp"
+PROJECT_NAME="src/ProgTasks.upp"
 
 PROJECT_EXTRA_COMPILE_FLAGS=""
 PROJECT_EXTRA_LINK_FLAGS=""
