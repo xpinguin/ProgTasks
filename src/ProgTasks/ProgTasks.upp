@@ -1,0 +1,16 @@
+uses
+	CtrlLib,
+	SqlCtrl,
+	PostgreSQL,
+	CodeEditor,
+	ide;
+
+file
+	ProgTasks.sch,
+	ProgTasks.h,
+	main.cpp,
+	ProgTasks.lay;
+
+mainconfig
+	"" = "GUI";
+
