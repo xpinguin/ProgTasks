@@ -7,7 +7,7 @@ UPP is a reasonable choice for those who'd like to solve applied problems by the
 
 ## ProgTasks
 
-Written by [vns01](https://github.com/xpinguin), winter 2019/2020.
+Written by [vns](https://github.com/xpinguin), winter 2019/2020.
 
 Released during the heated discussion with [shvmedia](https://www.instagram.com/shvmedia) and [nihilSup](https://github.com/nihilSup) about pros and cons of ORMs vs Plain SQL<s>, Python vs C++</s>, and so on.
 
