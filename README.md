@@ -30,6 +30,7 @@ I don't know, I'm tired of useless Python typing annotations, overly complex ORM
 	brew install bash
 	brew install make
 	brew install --cask cmake
+	brew install openssl libpq
 
 #### Linux
 
