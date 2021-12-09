@@ -32,7 +32,7 @@ I don't know, I'm tired of useless Python typing annotations, overly complex ORM
 	make -j6
 	./bin/ProgTasks
 
-## How it looks
+## How does it look
 
 ### Linux
 
