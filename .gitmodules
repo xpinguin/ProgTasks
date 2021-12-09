@@ -1,3 +1,6 @@
 [submodule "cmake"]
 	path = cmake
 	url = https://github.com/xpinguin/upp_cmake.git
+[submodule "upp"]
+	path = upp
+	url = https://github.com/ultimatepp/ultimatepp.git
