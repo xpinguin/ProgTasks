@@ -12,9 +12,8 @@ Imported here during the professional discussion with [shvmedia](https://www.ins
 
 ## How to build
 
-### Using UPP
-
-...
+	git clone https://github.com/xpinguin/ProgTasks.git
+	cd ProgTasks
 
 ### Using CMake
 
