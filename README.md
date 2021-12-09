@@ -3,7 +3,7 @@
 ## UPP
 
 Based upon the [UPP](https://www.ultimatepp.org/) C++ framework.
-UPP is a reasonable choice for those who'd like to solve applied problems ny him/herself.
+UPP is a reasonable choice for those who'd like to solve applied problems by themselves.
 
 ## ProgTasks
 
