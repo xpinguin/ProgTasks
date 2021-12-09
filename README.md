@@ -14,5 +14,13 @@ Imported here during the professional discussion with [shvmedia](https://www.ins
 
 ### Using UPP
 
+...
+
 ### Using CMake
 
+	./bootstrap.sh
+	./GenerateCMakeFiles.sh
+	mkdir build
+	cd build
+	cmake-gui ..
+	make -j6
