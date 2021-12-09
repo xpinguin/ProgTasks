@@ -28,6 +28,7 @@ I don't know, I'm tired of useless Python typing annotations, overly complex ORM
 
 	brew install pkg-config
 	brew install bash
+	brew install make
 	brew install --cask cmake
 
 #### Linux
