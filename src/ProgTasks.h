@@ -1,5 +1,4 @@
-#ifndef _ProgTasks_ProgTasks_h
-#define _ProgTasks_ProgTasks_h
+#pragma once
 
 #include <CtrlLib/CtrlLib.h>
 #include <SqlCtrl/SqlCtrl.h>
@@ -8,7 +7,7 @@
 
 using namespace Upp;
 
-#define LAYOUTFILE <ProgTasks/ProgTasks.lay>
+#define LAYOUTFILE <ProgTasks.lay>
 #include <CtrlCore/lay.h>
 
 struct ProgTasks : WithProgTasksLayout<TopWindow> {
@@ -29,4 +28,3 @@ struct ProgTasks : WithProgTasksLayout<TopWindow> {
 	EditTimeSpin editCreated;
 };
 
-#endif

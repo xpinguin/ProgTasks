@@ -1,6 +1,6 @@
 #include "ProgTasks.h"
 
-#define MODEL <ProgTasks/ProgTasks.sch>
+#define MODEL <ProgTasks.sch>
 
 #define SCHEMADIALECT <PostgreSQL/PostgreSQLSchema.h>
 #include <Sql/sch_header.h>
